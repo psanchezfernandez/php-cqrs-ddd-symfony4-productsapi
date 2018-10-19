@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+product_demo:
+  path:     /productsra
+  controller: ProductsAPI\Controller\ProductController::rabbit
